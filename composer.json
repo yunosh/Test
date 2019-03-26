@@ -44,7 +44,7 @@
     ],
     "autoload": {
         "psr-0": {
-            "Horde_Test": "lib/"
+            "Horde_Test": "lib/Horde/Test/"
         }
     }
 }
