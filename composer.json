@@ -39,6 +39,9 @@
         "pear-pear.horde.org/Horde_Test": "2.*",
         "pear-horde/Horde_Test": "2.*"
     },
+    "bin": [
+        "bundle/vendor/phpunit/phpunit/phpunit"
+    ],
     "autoload": {
         "psr-0": {
             "Horde_Test": "lib/"
